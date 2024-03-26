@@ -79,7 +79,23 @@ class MainActivity : ComponentActivity() {
         }
     }
 }
-
+@Composable
+private fun DogItemButton(
+    expanded: Boolean,
+    onClick: () -> Unit,
+    modifier: Modifier = Modifier
+){
+    IconButton(
+        onClick = onClick,
+        modifier = modifier
+    ){
+        Icon(
+            imageVector = Icons.Filled.ExpandMore,
+            contentDescription = stringResource(R.string.expand_button_content_description),
+            tint = MaterialTheme.colorScheme.secondary
+        )
+    }
+}
 /**
  * Composable that displays an app bar and a list of dogs.
  */
@@ -124,7 +140,7 @@ fun DogItem(
                     .padding(dimensionResource(R.dimen.padding_small))
             ) {
                 DogIcon(dog.imageResourceId)
-                DogInformation(dog.name, dog.age)
+                DogInformation(dog.name, dog.number)
                 Spacer(Modifier.weight(1f))
                 DogItemButton(
                     expanded = expanded,
@@ -218,7 +234,7 @@ fun WoofTopAppBar(modifier: Modifier = Modifier) {
                     modifier = Modifier
                         .size(dimensionResource(id = R.dimen.image_size))
                         .padding(dimensionResource(id = R.dimen.padding_small)),
-                    painter = painterResource(R.drawable.aom),
+                    painter = painterResource(R.drawable.buu),
 
                     contentDescription = null
                 )
@@ -231,23 +247,7 @@ fun WoofTopAppBar(modifier: Modifier = Modifier) {
         modifier = modifier
     )
 }
-@Composable
-private fun DogItemButton(
-    expanded: Boolean,
-    onClick: () -> Unit,
-    modifier: Modifier = Modifier
-){
-    IconButton(
-        onClick = onClick,
-        modifier = modifier
-    ){
-        Icon(
-            imageVector = Icons.Filled.ExpandMore,
-            contentDescription = stringResource(R.string.expand_button_content_description),
-            tint = MaterialTheme.colorScheme.secondary
-        )
-    }
-}
+
 @Composable
 fun DogHobby(
     @StringRes dogHobby: Int,

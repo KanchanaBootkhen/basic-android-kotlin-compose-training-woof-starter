@@ -14,26 +14,94 @@
   ~ limitations under the License.
   -->
 <resources>
-    <string name="app_name">Aom011</string>
-    <string name="dog_name_1">Kanchana Bootkhen</string>
-    <string name="dog_name_2">Lola</string>
-    <string name="dog_name_3">Frankie</string>
-    <string name="dog_name_4">Nox</string>
-    <string name="dog_name_5">Faye</string>
-    <string name="dog_name_6">Bella</string>
-    <string name="dog_name_7">Moana</string>
-    <string name="dog_name_8">Tzeitel</string>
-    <string name="dog_name_9">Leroy</string>
-    <string name="dog_description_1">Eating treats on the terrace</string>
-    <string name="dog_description_2">Barking at Daddy</string>
-    <string name="dog_description_3">Stealing socks</string>
-    <string name="dog_description_4">Meeting new animals</string>
-    <string name="dog_description_5">Digging in the garden</string>
-    <string name="dog_description_6">Chasing sea foam</string>
-    <string name="dog_description_7">Bothering her paw-rents</string>
-    <string name="dog_description_8">Sunbathing</string>
-    <string name="dog_description_9">Sleeping in dangerous places</string>
-    <string name="about">About:</string>
-    <string name="years_old">%d yeas old</string>
+    <string name="app_name">ITBI Alumni</string>
+    <string name="name1">Adriana C. Ocampo Uria</string>
+    <string name="name2">Albert Einstein</string>
+    <string name="name3">Anna K. Behrensmeyer  </string>
+    <string name="name4">Blaise Pascal</string>
+    <string name="name5">Caroline Herschel</string>
+    <string name="name6">Cecilia Payne-Gaposchkin</string>
+    <string name="name7">Chien-Shiung Wu </string>
+    <string name="name8">Dorothy Hodgkin </string>
+    <string name="name9"> Edmond Halley</string>
+    <string name="name10">Edwin Powell Hubble</string>
+    <string name="name11"> Elizabeth Blackburn</string>
+    <string name="name12">Enrico Fermi</string>
+    <string name="name13">Erwin Schroedinger</string>
+    <string name="name14">Flossie Wong-Staal</string>
+    <string name="name15">Frieda Robscheit-Robbins</string>
+    <string name="name16">Geraldine Seydoux</string>
+    <string name="name17">Gertrude B. Elion</string>
+    <string name="name18"> Ingrid Daubechies </string>
+    <string name="name19">Jacqueline K. Barton </string>
+    <string name="name20">Jane Goodall </string>
+    <string name="name21">Jocelyn Bell Burnell </string>
+    <string name="name22">Johannes Kepler </string>
+    <string name="name23"> Lene Vestergaard Hau </string>
+    <string name="name24">Lise Meitner</string>
+    <string name="name25">Lord Kelvin </string>
+    <string name="name26">Maria Mitchell</string>
+    <string name="name27">Marie Curie </string>
+    <string name="name28">Max Born </string>
+    <string name="name29">Max Planck</string>
+    <string name="name30">Melissa Franklin</string>
+    <string name="name31">Michael Faraday </string>
+    <string name="name32">Mildred S. Dresselhaus</string>
+    <string name="name33">Mildred S. Dresselhaus</string>
+    <string name="name34"> Nicolaus Copernicus</string>
+    <string name="name35">Niels Bohr</string>
+    <string name="name36"> Patricia S. Goldman-Rakic</string>
+    <string name="name37">Patty Jo Watson</string>
+    <string name="name38">Polly Matzinger</string>
+    <string name="name39">Richard Phillips Feynman</string>
+    <string name="name40"> Rita Levi-Montalcini</string>
+
+
+
+
+    <string name="dog_description_1">2560 รุ่น 13 Address1 Root33 Burapha Sakaeo 27160 Uria@exam.com 0817898908</string>
+    <string name="dog_description_2">2560 รุ่น 13 Address1 Root33 Burapha Sakaeo 27160 Einstein@exam.com 0909878979</string>
+    <string name="dog_description_3">2560 รุ่น 13 Address1 Root33 Burapha Sakaeo 27160 Behrensmeyer@exam.com 0607675798</string>
+    <string name="dog_description_4">2560 รุ่น 13 Address1 Root33 Burapha Sakaeo 27160 Pascal@exam.com 0303927398</string>
+    <string name="dog_description_5">2560 รุ่น 13 Address1 Root33 Burapha Sakaeo 27160 Herschel@exam.com 0603242534</string>
+    <string name="dog_description_6">2560 รุ่น 13 Address1 Root33 Burapha Sakaeo 27160 @exam.com 0809808433</string>
+    <string name="dog_description_7">2560 รุ่น 13 Address1 Root33 Burapha Sakaeo 27160 Wu@exam.com 0902673492</string>
+    <string name="dog_description_8">2560 รุ่น 13 Address1 Root33 Burapha Sakaeo 27160 Hodgkin@exam.com 0706772324</string>
+    <string name="dog_description_9">2560 รุ่น 13 Address1 Root33 Burapha Sakaeo 27160 Halley@exam.com 0509803242</string>
+    <string name="dog_description_10"> 2560 รุ่น 13 Address1 Root33 Burapha Sakaeo 27160 Hubble@exam.com 0902347679</string>
+    <string name="dog_description_11">2560 รุ่น 13 Address1 Root33 Burapha Sakaeo 27160 Blackburn@exam.com 0812347890</string>
+    <string name="dog_description_12">2560 รุ่น 13 Address1 Root33 Burapha Sakaeo 27160 Fermi@exam.com 0202347298</string>
+    <string name="dog_description_13">2560 รุ่น 13 Address1 Root33 Burapha Sakaeo 27160 Schroedinger@exam.com 0502489329</string>
+    <string name="dog_description_14">2560 รุ่น 13 Address1 Root33 Burapha Sakaeo 27160 Staal@exam.com 0707234932</string>
+    <string name="dog_description_15">2560 รุ่น 13 Address1 Root33 Burapha Sakaeo 27160 Robbins@exam.com 0909234221</string>
+    <string name="dog_description_16">2560 รุ่น 13 Address1 Root33 Burapha Sakaeo 27160 Seydoux@exam.com 0232423423</string>
+    <string name="dog_description_17">2560 รุ่น 13 Address1 Root33 Burapha Sakaeo 27160 Elion@exam.com 0902342762</string>
+    <string name="dog_description_18">2560 รุ่น 13 Address1 Root33 Burapha Sakaeo 27160 Daubechies@exam.com 0505234221</string>
+    <string name="dog_description_19">2560 รุ่น 13 Address1 Root33 Burapha Sakaeo 27160 Barton@exam.com 0702342387</string>
+    <string name="dog_description_20">2560 รุ่น 13 Address1 Root33 Burapha Sakaeo 27160 Goodall@exam.com 0808080322</string>
+    <string name="dog_description_21">2560 รุ่น 13 Address1 Root33 Burapha Sakaeo 27160 Burnell@exam.com 0909234234</string>
+    <string name="dog_description_22">2560 รุ่น 13 Address1 Root33 Burapha Sakaeo 27160 Kepler@exam.com 0123223445</string>
+    <string name="dog_description_23">2560 รุ่น 13 Address1 Root33 Burapha Sakaeo 27160 Hau@exam.com 0342307203</string>
+    <string name="dog_description_24">2560 รุ่น 13 Address1 Root33 Burapha Sakaeo 27160 Meitner@exam.com 0232752342</string>
+    <string name="dog_description_25">2560 รุ่น 13 Address1 Root33 Burapha Sakaeo 27160 Kelvin@exam.com 0808243423</string>
+    <string name="dog_description_26">2560 รุ่น 13 Address1 Root33 Burapha Sakaeo 27160 Mitchell@exam.com 0606624221</string>
+    <string name="dog_description_27">2560 รุ่น 13 Address1 Root33 Burapha Sakaeo 27160 Curie@exam.com 0303023690</string>
+    <string name="dog_description_28">2560 รุ่น 13 Address1 Root33 Burapha Sakaeo 27160 Born@exam.com 0503238902</string>
+    <string name="dog_description_29">2560 รุ่น 13 Address1 Root33 Burapha Sakaeo 27160 Planck@exam.com 0113729982</string>
+    <string name="dog_description_30">2560 รุ่น 13 Address1 Root33 Burapha Sakaeo 27160 Faraday@exam.com 023456221</string>
+    <string name="dog_description_31">2560 รุ่น 13 Address1 Root33 Burapha Sakaeo 27160 Dresselhaus@exam.com 0505052321</string>
+    <string name="dog_description_32">2560 รุ่น 13 Address1 Root33 Burapha Sakaeo 27160 Faraday@exam.com 023456221</string>
+    <string name="dog_description_33">2560 รุ่น 13 Address1 Root33 Burapha Sakaeo 27160 Dresselhaus@exam.com 0505052321</string>
+    <string name="dog_description_34">2560 รุ่น 13 Address1 Root33 Burapha Sakaeo 27160 Copernicus@exam.com 0662429742</string>
+    <string name="dog_description_35">2560 รุ่น 13 Address1 Root33 Burapha Sakaeo 27160 Bohr@exam.com 0332348279</string>
+    <string name="dog_description_36">2560 รุ่น 13 Address1 Root33 Burapha Sakaeo 27160 Rakic@exam.com 0772342798</string>
+    <string name="dog_description_37">2560 รุ่น 13 Address1 Root33 Burapha Sakaeo 27160 Watson@exam.com 0909023436</string>
+    <string name="dog_description_38">2560 รุ่น 13 Address1 Root33 Burapha Sakaeo 27160 Matzinger@exam.com 0808234211</string>
+    <string name="dog_description_39">2560 รุ่น 13 Address1 Root33 Burapha Sakaeo 27160 Feynman@exam.com 0909023451</string>
+    <string name="dog_description_40">2560 รุ่น 13 Address1 Root33 Burapha Sakaeo 27160 Montalcini@exam.com 0234238273</string>
+
+
+    <string name="about">ข้อมูลเพิ่มเติม:</string>
+    <string name="years_old">%d </string>
     <string name="expand_button_content_description">See more or less information about a dog.</string>
 </resources>
